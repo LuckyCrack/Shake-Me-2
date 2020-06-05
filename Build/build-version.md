@@ -3,6 +3,7 @@
 
 ## Build Version 2.0.0
 * Added About Fragment
+* Added Sensitivity Adjustment
 
 ## Build Version 3.0.0
 * Added Splash Screen
