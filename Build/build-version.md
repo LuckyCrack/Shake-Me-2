@@ -1,4 +1,4 @@
-##Build Version 1.0.0
+*Build Version 1.0.0*
 * Added Basic Shake and Gif
 
 ##Build Version 2.0.0
