@@ -17,3 +17,7 @@
 
 ## Build Version 3.0.3
 *Added Share Feature/Button
+
+## Build Version 3.0.4
+* Minor Bug Fixed
+* App Layout improved
