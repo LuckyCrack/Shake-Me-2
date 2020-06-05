@@ -15,5 +15,5 @@
 * Added Buttons for switching the gif in Home Fragment
 * Added image view in About Fragment
 
-# Build Version 3.0.3
+## Build Version 3.0.3
 *Added Share Feature/Button
