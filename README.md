@@ -7,7 +7,9 @@ when the user shook the phone. Features were added to the app to allow the user 
 they downloaded on their phone so it is no longer limited to just this gif and mp4.
 
 # Some Screenshots
-
+  [!alt-text](https://github.com/LuckyCrack/Shakeme2/blob/master/ScreenShots/img%20(1).jpg)
+  [!alt-text](https://github.com/LuckyCrack/Shakeme2/blob/master/ScreenShots/img%20(2).jpg)
+  [!alt-text](https://github.com/LuckyCrack/Shakeme2/blob/master/ScreenShots/img%20(3).jpg)
  
 
 # App Permission
