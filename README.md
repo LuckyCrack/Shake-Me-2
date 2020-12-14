@@ -8,8 +8,8 @@ they downloaded on their phone so it is no longer limited to just this gif and m
 
 # Some Screenshots
   ![alt text](https://github.com/LuckyCrack/Shakeme2/blob/master/ScreenShots/img%20(2).png)
-  ![alt text](https://github.com/LuckyCrack/Shakeme2/blob/master/ScreenShots/img%20(1).png)
   ![alt text](https://github.com/LuckyCrack/Shakeme2/blob/master/ScreenShots/img%20(3).png)
+  ![alt text](https://github.com/LuckyCrack/Shakeme2/blob/master/ScreenShots/img%20(1).png)
  
 
 # App Permission
