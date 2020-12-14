@@ -6,7 +6,9 @@ made just for playing the [Batman on Drugs video](https://www.youtube.com/watch?
 when the user shook the phone. Features were added to the app to allow the user to play any gif or mp4 
 they downloaded on their phone so it is no longer limited to just this gif and mp4.
 
-#Some Screenshots
+# Some Screenshots
+
+ 
 
 # App Permission
 The app is not asking for any permissions from the user.
