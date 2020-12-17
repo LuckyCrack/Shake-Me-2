@@ -14,4 +14,4 @@ they downloaded on their phone so it is no longer limited to just this gif and m
 
 # App Permission
 The app is not asking for any permissions from the user.
-It was made on newer android sdk.
+It was made on newer Android SDK.
